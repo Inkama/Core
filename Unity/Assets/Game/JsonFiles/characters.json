@@ -1,0 +1,111 @@
+[
+	{
+		"id": "1",
+		"display_name": "Single",
+		"description": "ベーシックなリコピノ。抗酸化作用が働き美肌効果あり。",
+		"base_kps": "1",
+		"room": "C_001_Single",
+		"food": "hamburger",
+		"requirements": [{"class": "RequirementHighestKcal", "kcal": "149"}],
+		"requirements_to_buy": [{"class": "RequirementPeopleCount", "people": "1", "count": 0}]
+	},
+	{
+		"id": "2",
+		"display_name": "Crushed",
+		"description": "つぶれてしまってはいるが、効果に変わりわない。",
+		"base_cost": "1043",
+		"base_kps": "6",
+		"room": "C_002_Crushed",
+		"food": "omurice",
+		"requirements": [{"class": "RequirementHighestKcal", "kcal": "1199"}],
+		"requirements_to_buy": [{"class": "RequirementPeopleCount", "people": "1", "count": 1}]
+	},
+	{
+		"id": "3",
+		"display_name": "Triple",
+		"description": "小粒だが量でカバー！数は力なり。小回りもきく。",
+		"base_cost": "5216",
+		"base_kps": "30",
+		"room": "C_003_Triple",
+		"food": "ramen",
+		"requirements": [{"class": "RequirementHighestKcal", "kcal": "5999"}],
+		"requirements_to_buy": [{"class": "RequirementPeopleCount", "people": "2", "count": 1}]
+	},
+	{
+		"id": "4",
+		"display_name": "Totem",
+		"description": "トーテムには神秘のパワーが宿る。合体こそロマン。",
+		"base_cost": "32601",
+		"base_kps": "150",
+		"room": "C_004_Totem",
+		"food": "pizza",
+		"requirements": [{"class": "RequirementHighestKcal", "kcal": "37500"}],
+		"requirements_to_buy": [{"class": "RequirementPeopleCount", "people": "3", "count": 1}]
+	},
+	{
+		"id": "5",
+		"display_name": "Bigone",
+		"description": "巨大化。それは圧倒的な質量のアップ。パワー系リコピノ。",
+		"base_cost": "156485",
+		"base_kps": "600",
+		"room": "C_005_Bigone",
+		"food": "dango",
+		"requirements": [{"class": "RequirementHighestKcal", "kcal": "180000"}],
+		"requirements_to_buy": [{"class": "RequirementPeopleCount", "people": "4", "count": 1}]
+	},
+	{
+		"id": "6",
+		"display_name": "Slice",
+		"description": "リコピノはスライスされる事で気持ち味が増す。スライスされても平気。",
+		"base_cost": "717221",
+		"base_kps": "1500",
+		"room": "C_006_Slice",
+		"food": "curry",
+		"requirements": [{"class": "RequirementHighestKcal", "kcal": "825000"}],
+		"requirements_to_buy": [{"class": "RequirementPeopleCount", "people": "5", "count": 1}]
+	},
+	{
+		"id": "7",
+		"display_name": "Team",
+		"description": "統率されたチームワーク！最強のリコピノ軍団。",
+		"base_cost": "3260093",
+		"base_kps": "6000",
+		"room": "C_007_Team",
+		"food": "yakiniku",
+		"requirements": [{"class": "RequirementHighestKcal", "kcal": "3749999"}],
+		"requirements_to_buy": [{"class": "RequirementPeopleCount", "people": "6", "count": 1}]
+	},
+	{
+		"id": "8",
+		"display_name": "Bottle",
+		"description": "持ち運びに便利、いつでもどこでもリコピノを摂取できるスグレモノ！",
+		"base_cost": "23037993",
+		"base_kps": "100000",
+		"room": "C_008_Bottle",
+		"food": "sushi",
+		"requirements": [{"class": "RequirementHighestKcal", "kcal": "26499999"}],
+		"requirements_to_buy": [{"class": "RequirementPeopleCount", "people": "7", "count": 1}]
+	},
+	{
+		"id": "9",
+		"display_name": "GM",
+		"description": "遺伝子組み換えによって生まれた悲しきリコピノ。種がない。",
+		"base_cost": "1738716471",
+		"base_kps": "1500000",
+		"room": "C_009_GM",
+		"food": "soba",
+		"requirements": [{"class": "RequirementHighestKcal", "kcal": "2000000000"}],
+		"requirements_to_buy": [{"class": "RequirementPeopleCount", "people": "8", "count": 1}]
+	},
+	{
+		"id": "10",
+		"display_name": "Jet stream",
+		"description": "黒い三連星と呼ばれるブラック・リコピノ・ブラザーズ！",
+		"base_cost": "57377643536",
+		"base_kps": "15000000",
+		"room": "C_010_Jet stream",
+		"food": "softserve",
+		"requirements": [{"class": "RequirementHighestKcal", "kcal": "65999999999"}],
+		"requirements_to_buy": [{"class": "RequirementPeopleCount", "people": "9", "count": 1}]
+	}
+]
